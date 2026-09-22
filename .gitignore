@@ -1,0 +1,12 @@
+architecture.md
+implementation_plan.md
+malloc.md
+reference_analysis.md
+subject_analysis.md
+task.md
+compile_flags.txt
+.clangd
+.vscode/
+obj/
+docs/
+ref/
